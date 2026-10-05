@@ -38,7 +38,9 @@ The dataset contains *41 sample orders* with the following columns:
 
 # Key findings
 1.*Apple* generated the highest sales value among the brands in the sample dataset with total sales **₹891,378**.
-2. Category- level insights will be added after completing the analysis.
+2. *Smartphones* generated the highest sales value among the brands in the dataset with total sales **1065752**.
+3. *MacBook Air 13-inch* generated the highest sales value among individual products with total sales of **₹3,99,600**.
+4. *January* recorded the highest sales value with total sales of **₹7,43,657**.
 
 ## Project Workflow
 
