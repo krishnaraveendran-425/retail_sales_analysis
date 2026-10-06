@@ -44,7 +44,7 @@ The dataset contains *41 sample orders* with the following columns:
  17. Analyzed average price by product brand
 
 # Key findings
-1.*Apple* generated the highest sales value among the brands in the sample dataset with total sales **₹891,378**.
+1.*Apple* generated the highest sales value among the brands in the sample dataset with total sales **₹891,378.80**.
 2. *Smartphones* generated the highest sales value among product categories in the dataset with total sales **1065752**.
 3. *MacBook Air 13-inch* generated the highest sales value among individual products with total sales of **₹3,99,600**.
 4. *January* recorded the highest sales value with total sales of **₹7,43,657**.
@@ -53,6 +53,12 @@ The dataset contains *41 sample orders* with the following columns:
 7. The **₹60,000–₹90,000** price range contained the highest number of orders with **20 orders**.
 8. **Apple** had the highest number of orders among brands, with **10 orders**.
 
+# Tableau Dashboard
+
+Here is the interactive dashboard on Tableau public:
+
+https://public.tableau.com/app/profile/krishna.k2179/viz/Retailsalesanalysis_17912991449590/Dashboard1?publish=yes
+
 ## Project Workflow
 
 *Raw data → Excel → SQL → Tableau → GitHub*
@@ -60,5 +66,6 @@ The dataset contains *41 sample orders* with the following columns:
 # Project Status
 
 **Excel Analysis - Completed**
-**SQL analysis - In progress** 
-**Tableau dashboard - In Progress**
+**SQL analysis - Completed**
+**Tableau dashboard - Completed**
+**GitHub Documentation - In progress**
